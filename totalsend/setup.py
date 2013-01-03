@@ -6,13 +6,9 @@ setup(
     author='Eli Dickinson',
     author_email='eli@industrydive.com',
     packages=['totalsend'],
-    # scripts=['bin/stowe-towels.py','bin/wash-towels.py'],
-    # url='http://pypi.python.org/pypi/TowelStuff/',
+    url='https://github.com/industrydive/totalsendclient/',
     # license='LICENSE.txt',
     description='Using TotalSend API.',
-    # long_description=open('README.txt').read(),
-    # install_requires=[
-    #     "Django >= 1.1.1",
-    #     "caldav == 0.1.4",
-    # ],
+    long_description='No longer description needed.',
+    install_requires=[],
 )
