@@ -7,7 +7,7 @@ setup(
     author_email='eli@industrydive.com',
     packages=['totalsend'],
     url='https://github.com/industrydive/totalsendclient/',
-    # license='LICENSE.txt',
+    license='LICENSE.txt',
     description='Using TotalSend API.',
     long_description='No longer description needed.',
     install_requires=[],
